@@ -1,0 +1,646 @@
+[{
+  "_id": {
+    "$oid": "64494449dcc3ab1724b3b5d3"
+  },
+  "request": {
+    "type": "City",
+    "query": "Phoenix, United States of America",
+    "language": "en",
+    "unit": "m"
+  },
+  "location": {
+    "name": "Phoenix",
+    "country": "United States of America",
+    "region": "Arizona",
+    "lat": "33.448",
+    "lon": "-112.073",
+    "timezone_id": "America/Phoenix",
+    "localtime": "2023-04-26 05:20",
+    "localtime_epoch": 1682486400,
+    "utc_offset": "-7.0"
+  },
+  "current": {
+    "observation_time": "12:20 PM",
+    "temperature": 19,
+    "weather_code": 113,
+    "weather_icons": [
+      "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png"
+    ],
+    "weather_descriptions": [
+      "Clear"
+    ],
+    "wind_speed": 6,
+    "wind_degree": 140,
+    "wind_dir": "SE",
+    "pressure": 1011,
+    "precip": 0,
+    "humidity": 26,
+    "cloudcover": 0,
+    "feelslike": 19,
+    "uv_index": 1,
+    "visibility": 14,
+    "is_day": "no"
+  }
+},{
+  "_id": {
+    "$oid": "64494449dcc3ab1724b3b5d4"
+  },
+  "request": {
+    "type": "City",
+    "query": "Phoenix, United States of America",
+    "language": "en",
+    "unit": "m"
+  },
+  "location": {
+    "name": "Phoenix",
+    "country": "United States of America",
+    "region": "Arizona",
+    "lat": "33.448",
+    "lon": "-112.073",
+    "timezone_id": "America/Phoenix",
+    "localtime": "2023-04-26 05:28",
+    "localtime_epoch": 1682486880,
+    "utc_offset": "-7.0"
+  },
+  "current": {
+    "observation_time": "12:28 PM",
+    "temperature": 19,
+    "weather_code": 113,
+    "weather_icons": [
+      "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png"
+    ],
+    "weather_descriptions": [
+      "Clear"
+    ],
+    "wind_speed": 6,
+    "wind_degree": 140,
+    "wind_dir": "SE",
+    "pressure": 1011,
+    "precip": 0,
+    "humidity": 26,
+    "cloudcover": 0,
+    "feelslike": 19,
+    "uv_index": 1,
+    "visibility": 14,
+    "is_day": "no"
+  }
+},{
+  "_id": {
+    "$oid": "64494449dcc3ab1724b3b5d5"
+  },
+  "request": {
+    "type": "City",
+    "query": "Phoenix, United States of America",
+    "language": "en",
+    "unit": "m"
+  },
+  "location": {
+    "name": "Phoenix",
+    "country": "United States of America",
+    "region": "Arizona",
+    "lat": "33.448",
+    "lon": "-112.073",
+    "timezone_id": "America/Phoenix",
+    "localtime": "2023-04-26 05:28",
+    "localtime_epoch": 1682486880,
+    "utc_offset": "-7.0"
+  },
+  "current": {
+    "observation_time": "12:28 PM",
+    "temperature": 19,
+    "weather_code": 113,
+    "weather_icons": [
+      "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png"
+    ],
+    "weather_descriptions": [
+      "Clear"
+    ],
+    "wind_speed": 6,
+    "wind_degree": 140,
+    "wind_dir": "SE",
+    "pressure": 1011,
+    "precip": 0,
+    "humidity": 26,
+    "cloudcover": 0,
+    "feelslike": 19,
+    "uv_index": 1,
+    "visibility": 14,
+    "is_day": "no"
+  }
+},{
+  "_id": {
+    "$oid": "6449444adcc3ab1724b3b5d6"
+  },
+  "request": {
+    "type": "City",
+    "query": "Phoenix, United States of America",
+    "language": "en",
+    "unit": "m"
+  },
+  "location": {
+    "name": "Phoenix",
+    "country": "United States of America",
+    "region": "Arizona",
+    "lat": "33.448",
+    "lon": "-112.073",
+    "timezone_id": "America/Phoenix",
+    "localtime": "2023-04-26 05:43",
+    "localtime_epoch": 1682487780,
+    "utc_offset": "-7.0"
+  },
+  "current": {
+    "observation_time": "12:43 PM",
+    "temperature": 19,
+    "weather_code": 113,
+    "weather_icons": [
+      "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png"
+    ],
+    "weather_descriptions": [
+      "Clear"
+    ],
+    "wind_speed": 6,
+    "wind_degree": 140,
+    "wind_dir": "SE",
+    "pressure": 1011,
+    "precip": 0,
+    "humidity": 26,
+    "cloudcover": 0,
+    "feelslike": 19,
+    "uv_index": 1,
+    "visibility": 14,
+    "is_day": "no"
+  }
+},{
+  "_id": {
+    "$oid": "6449444adcc3ab1724b3b5d7"
+  },
+  "request": {
+    "type": "City",
+    "query": "Phoenix, United States of America",
+    "language": "en",
+    "unit": "m"
+  },
+  "location": {
+    "name": "Phoenix",
+    "country": "United States of America",
+    "region": "Arizona",
+    "lat": "33.448",
+    "lon": "-112.073",
+    "timezone_id": "America/Phoenix",
+    "localtime": "2023-04-26 05:58",
+    "localtime_epoch": 1682488680,
+    "utc_offset": "-7.0"
+  },
+  "current": {
+    "observation_time": "12:58 PM",
+    "temperature": 19,
+    "weather_code": 113,
+    "weather_icons": [
+      "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png"
+    ],
+    "weather_descriptions": [
+      "Sunny"
+    ],
+    "wind_speed": 6,
+    "wind_degree": 140,
+    "wind_dir": "SE",
+    "pressure": 1011,
+    "precip": 0,
+    "humidity": 26,
+    "cloudcover": 0,
+    "feelslike": 19,
+    "uv_index": 1,
+    "visibility": 14,
+    "is_day": "yes"
+  }
+},{
+  "_id": {
+    "$oid": "6449444adcc3ab1724b3b5d8"
+  },
+  "request": {
+    "type": "City",
+    "query": "Phoenix, United States of America",
+    "language": "en",
+    "unit": "m"
+  },
+  "location": {
+    "name": "Phoenix",
+    "country": "United States of America",
+    "region": "Arizona",
+    "lat": "33.448",
+    "lon": "-112.073",
+    "timezone_id": "America/Phoenix",
+    "localtime": "2023-04-26 06:09",
+    "localtime_epoch": 1682489340,
+    "utc_offset": "-7.0"
+  },
+  "current": {
+    "observation_time": "01:09 PM",
+    "temperature": 19,
+    "weather_code": 113,
+    "weather_icons": [
+      "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png"
+    ],
+    "weather_descriptions": [
+      "Sunny"
+    ],
+    "wind_speed": 6,
+    "wind_degree": 140,
+    "wind_dir": "SE",
+    "pressure": 1011,
+    "precip": 0,
+    "humidity": 26,
+    "cloudcover": 0,
+    "feelslike": 19,
+    "uv_index": 6,
+    "visibility": 14,
+    "is_day": "yes"
+  }
+},{
+  "_id": {
+    "$oid": "6449444adcc3ab1724b3b5d9"
+  },
+  "request": {
+    "type": "City",
+    "query": "Phoenix, United States of America",
+    "language": "en",
+    "unit": "m"
+  },
+  "location": {
+    "name": "Phoenix",
+    "country": "United States of America",
+    "region": "Arizona",
+    "lat": "33.448",
+    "lon": "-112.073",
+    "timezone_id": "America/Phoenix",
+    "localtime": "2023-04-26 06:28",
+    "localtime_epoch": 1682490480,
+    "utc_offset": "-7.0"
+  },
+  "current": {
+    "observation_time": "01:28 PM",
+    "temperature": 18,
+    "weather_code": 116,
+    "weather_icons": [
+      "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png"
+    ],
+    "weather_descriptions": [
+      "Partly cloudy"
+    ],
+    "wind_speed": 7,
+    "wind_degree": 220,
+    "wind_dir": "SW",
+    "pressure": 1011,
+    "precip": 0,
+    "humidity": 30,
+    "cloudcover": 25,
+    "feelslike": 18,
+    "uv_index": 6,
+    "visibility": 16,
+    "is_day": "yes"
+  }
+},{
+  "_id": {
+    "$oid": "6449444adcc3ab1724b3b5da"
+  },
+  "request": {
+    "type": "City",
+    "query": "Phoenix, United States of America",
+    "language": "en",
+    "unit": "m"
+  },
+  "location": {
+    "name": "Phoenix",
+    "country": "United States of America",
+    "region": "Arizona",
+    "lat": "33.448",
+    "lon": "-112.073",
+    "timezone_id": "America/Phoenix",
+    "localtime": "2023-04-26 06:43",
+    "localtime_epoch": 1682491380,
+    "utc_offset": "-7.0"
+  },
+  "current": {
+    "observation_time": "01:43 PM",
+    "temperature": 18,
+    "weather_code": 116,
+    "weather_icons": [
+      "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png"
+    ],
+    "weather_descriptions": [
+      "Partly cloudy"
+    ],
+    "wind_speed": 7,
+    "wind_degree": 220,
+    "wind_dir": "SW",
+    "pressure": 1011,
+    "precip": 0,
+    "humidity": 30,
+    "cloudcover": 25,
+    "feelslike": 18,
+    "uv_index": 6,
+    "visibility": 16,
+    "is_day": "yes"
+  }
+},{
+  "_id": {
+    "$oid": "6449444adcc3ab1724b3b5db"
+  },
+  "request": {
+    "type": "City",
+    "query": "Phoenix, United States of America",
+    "language": "en",
+    "unit": "m"
+  },
+  "location": {
+    "name": "Phoenix",
+    "country": "United States of America",
+    "region": "Arizona",
+    "lat": "33.448",
+    "lon": "-112.073",
+    "timezone_id": "America/Phoenix",
+    "localtime": "2023-04-26 06:58",
+    "localtime_epoch": 1682492280,
+    "utc_offset": "-7.0"
+  },
+  "current": {
+    "observation_time": "01:58 PM",
+    "temperature": 18,
+    "weather_code": 116,
+    "weather_icons": [
+      "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png"
+    ],
+    "weather_descriptions": [
+      "Partly cloudy"
+    ],
+    "wind_speed": 7,
+    "wind_degree": 220,
+    "wind_dir": "SW",
+    "pressure": 1011,
+    "precip": 0,
+    "humidity": 30,
+    "cloudcover": 25,
+    "feelslike": 18,
+    "uv_index": 6,
+    "visibility": 16,
+    "is_day": "yes"
+  }
+},{
+  "_id": {
+    "$oid": "6449444adcc3ab1724b3b5dc"
+  },
+  "request": {
+    "type": "City",
+    "query": "Phoenix, United States of America",
+    "language": "en",
+    "unit": "m"
+  },
+  "location": {
+    "name": "Phoenix",
+    "country": "United States of America",
+    "region": "Arizona",
+    "lat": "33.448",
+    "lon": "-112.073",
+    "timezone_id": "America/Phoenix",
+    "localtime": "2023-04-26 07:09",
+    "localtime_epoch": 1682492940,
+    "utc_offset": "-7.0"
+  },
+  "current": {
+    "observation_time": "02:09 PM",
+    "temperature": 18,
+    "weather_code": 116,
+    "weather_icons": [
+      "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png"
+    ],
+    "weather_descriptions": [
+      "Partly cloudy"
+    ],
+    "wind_speed": 7,
+    "wind_degree": 220,
+    "wind_dir": "SW",
+    "pressure": 1011,
+    "precip": 0,
+    "humidity": 30,
+    "cloudcover": 25,
+    "feelslike": 18,
+    "uv_index": 6,
+    "visibility": 16,
+    "is_day": "yes"
+  }
+},{
+  "_id": {
+    "$oid": "6449444adcc3ab1724b3b5dd"
+  },
+  "request": {
+    "type": "City",
+    "query": "Phoenix, United States of America",
+    "language": "en",
+    "unit": "m"
+  },
+  "location": {
+    "name": "Phoenix",
+    "country": "United States of America",
+    "region": "Arizona",
+    "lat": "33.448",
+    "lon": "-112.073",
+    "timezone_id": "America/Phoenix",
+    "localtime": "2023-04-26 07:28",
+    "localtime_epoch": 1682494080,
+    "utc_offset": "-7.0"
+  },
+  "current": {
+    "observation_time": "02:28 PM",
+    "temperature": 19,
+    "weather_code": 116,
+    "weather_icons": [
+      "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png"
+    ],
+    "weather_descriptions": [
+      "Partly cloudy"
+    ],
+    "wind_speed": 6,
+    "wind_degree": 210,
+    "wind_dir": "SSW",
+    "pressure": 1012,
+    "precip": 0,
+    "humidity": 34,
+    "cloudcover": 25,
+    "feelslike": 19,
+    "uv_index": 6,
+    "visibility": 16,
+    "is_day": "yes"
+  }
+},{
+  "_id": {
+    "$oid": "6449444adcc3ab1724b3b5de"
+  },
+  "request": {
+    "type": "City",
+    "query": "Phoenix, United States of America",
+    "language": "en",
+    "unit": "m"
+  },
+  "location": {
+    "name": "Phoenix",
+    "country": "United States of America",
+    "region": "Arizona",
+    "lat": "33.448",
+    "lon": "-112.073",
+    "timezone_id": "America/Phoenix",
+    "localtime": "2023-04-26 07:43",
+    "localtime_epoch": 1682494980,
+    "utc_offset": "-7.0"
+  },
+  "current": {
+    "observation_time": "02:43 PM",
+    "temperature": 19,
+    "weather_code": 116,
+    "weather_icons": [
+      "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png"
+    ],
+    "weather_descriptions": [
+      "Partly cloudy"
+    ],
+    "wind_speed": 6,
+    "wind_degree": 210,
+    "wind_dir": "SSW",
+    "pressure": 1012,
+    "precip": 0,
+    "humidity": 34,
+    "cloudcover": 25,
+    "feelslike": 19,
+    "uv_index": 6,
+    "visibility": 16,
+    "is_day": "yes"
+  }
+},{
+  "_id": {
+    "$oid": "6449444adcc3ab1724b3b5df"
+  },
+  "request": {
+    "type": "City",
+    "query": "Phoenix, United States of America",
+    "language": "en",
+    "unit": "m"
+  },
+  "location": {
+    "name": "Phoenix",
+    "country": "United States of America",
+    "region": "Arizona",
+    "lat": "33.448",
+    "lon": "-112.073",
+    "timezone_id": "America/Phoenix",
+    "localtime": "2023-04-26 07:58",
+    "localtime_epoch": 1682495880,
+    "utc_offset": "-7.0"
+  },
+  "current": {
+    "observation_time": "02:58 PM",
+    "temperature": 19,
+    "weather_code": 116,
+    "weather_icons": [
+      "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png"
+    ],
+    "weather_descriptions": [
+      "Partly cloudy"
+    ],
+    "wind_speed": 6,
+    "wind_degree": 210,
+    "wind_dir": "SSW",
+    "pressure": 1012,
+    "precip": 0,
+    "humidity": 34,
+    "cloudcover": 25,
+    "feelslike": 19,
+    "uv_index": 6,
+    "visibility": 16,
+    "is_day": "yes"
+  }
+},{
+  "_id": {
+    "$oid": "6449444adcc3ab1724b3b5e0"
+  },
+  "request": {
+    "type": "City",
+    "query": "Phoenix, United States of America",
+    "language": "en",
+    "unit": "m"
+  },
+  "location": {
+    "name": "Phoenix",
+    "country": "United States of America",
+    "region": "Arizona",
+    "lat": "33.448",
+    "lon": "-112.073",
+    "timezone_id": "America/Phoenix",
+    "localtime": "2023-04-26 08:09",
+    "localtime_epoch": 1682496540,
+    "utc_offset": "-7.0"
+  },
+  "current": {
+    "observation_time": "03:09 PM",
+    "temperature": 19,
+    "weather_code": 116,
+    "weather_icons": [
+      "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png"
+    ],
+    "weather_descriptions": [
+      "Partly cloudy"
+    ],
+    "wind_speed": 6,
+    "wind_degree": 210,
+    "wind_dir": "SSW",
+    "pressure": 1012,
+    "precip": 0,
+    "humidity": 34,
+    "cloudcover": 25,
+    "feelslike": 19,
+    "uv_index": 6,
+    "visibility": 16,
+    "is_day": "yes"
+  }
+},{
+  "_id": {
+    "$oid": "6449444adcc3ab1724b3b5e1"
+  },
+  "request": {
+    "type": "City",
+    "query": "Phoenix, United States of America",
+    "language": "en",
+    "unit": "m"
+  },
+  "location": {
+    "name": "Phoenix",
+    "country": "United States of America",
+    "region": "Arizona",
+    "lat": "33.448",
+    "lon": "-112.073",
+    "timezone_id": "America/Phoenix",
+    "localtime": "2023-04-26 08:28",
+    "localtime_epoch": 1682497680,
+    "utc_offset": "-7.0"
+  },
+  "current": {
+    "observation_time": "03:28 PM",
+    "temperature": 22,
+    "weather_code": 116,
+    "weather_icons": [
+      "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png"
+    ],
+    "weather_descriptions": [
+      "Partly cloudy"
+    ],
+    "wind_speed": 9,
+    "wind_degree": 100,
+    "wind_dir": "E",
+    "pressure": 1013,
+    "precip": 0,
+    "humidity": 21,
+    "cloudcover": 25,
+    "feelslike": 22,
+    "uv_index": 6,
+    "visibility": 16,
+    "is_day": "yes"
+  }
+}]

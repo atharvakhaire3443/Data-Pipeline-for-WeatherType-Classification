@@ -1,0 +1,560 @@
+[{
+  "_id": {
+    "$oid": "64493e5e1b084cf13279787a"
+  },
+  "request": {
+    "type": "City",
+    "query": "Atlanta, United States of America",
+    "language": "en",
+    "unit": "m"
+  },
+  "location": {
+    "name": "Atlanta",
+    "country": "United States of America",
+    "region": "Georgia",
+    "lat": "33.749",
+    "lon": "-84.388",
+    "timezone_id": "America/New_York",
+    "localtime": "2023-04-26 08:20",
+    "localtime_epoch": 1682497200,
+    "utc_offset": "-4.0"
+  },
+  "current": {
+    "observation_time": "12:20 PM",
+    "temperature": 13,
+    "weather_code": 122,
+    "weather_icons": [
+      "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png"
+    ],
+    "weather_descriptions": [
+      "Overcast"
+    ],
+    "wind_speed": 4,
+    "wind_degree": 76,
+    "wind_dir": "ENE",
+    "pressure": 1020,
+    "precip": 0,
+    "humidity": 77,
+    "cloudcover": 100,
+    "feelslike": 12,
+    "uv_index": 3,
+    "visibility": 16,
+    "is_day": "yes"
+  }
+},{
+  "_id": {
+    "$oid": "64493e5e1b084cf13279787b"
+  },
+  "request": {
+    "type": "City",
+    "query": "Atlanta, United States of America",
+    "language": "en",
+    "unit": "m"
+  },
+  "location": {
+    "name": "Atlanta",
+    "country": "United States of America",
+    "region": "Georgia",
+    "lat": "33.749",
+    "lon": "-84.388",
+    "timezone_id": "America/New_York",
+    "localtime": "2023-04-26 08:28",
+    "localtime_epoch": 1682497680,
+    "utc_offset": "-4.0"
+  },
+  "current": {
+    "observation_time": "12:28 PM",
+    "temperature": 13,
+    "weather_code": 122,
+    "weather_icons": [
+      "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png"
+    ],
+    "weather_descriptions": [
+      "Overcast"
+    ],
+    "wind_speed": 13,
+    "wind_degree": 100,
+    "wind_dir": "E",
+    "pressure": 1019,
+    "precip": 0,
+    "humidity": 75,
+    "cloudcover": 100,
+    "feelslike": 12,
+    "uv_index": 3,
+    "visibility": 16,
+    "is_day": "yes"
+  }
+},{
+  "_id": {
+    "$oid": "64493e5e1b084cf13279787c"
+  },
+  "request": {
+    "type": "City",
+    "query": "Atlanta, United States of America",
+    "language": "en",
+    "unit": "m"
+  },
+  "location": {
+    "name": "Atlanta",
+    "country": "United States of America",
+    "region": "Georgia",
+    "lat": "33.749",
+    "lon": "-84.388",
+    "timezone_id": "America/New_York",
+    "localtime": "2023-04-26 08:28",
+    "localtime_epoch": 1682497680,
+    "utc_offset": "-4.0"
+  },
+  "current": {
+    "observation_time": "12:28 PM",
+    "temperature": 13,
+    "weather_code": 122,
+    "weather_icons": [
+      "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png"
+    ],
+    "weather_descriptions": [
+      "Overcast"
+    ],
+    "wind_speed": 13,
+    "wind_degree": 100,
+    "wind_dir": "E",
+    "pressure": 1019,
+    "precip": 0,
+    "humidity": 75,
+    "cloudcover": 100,
+    "feelslike": 12,
+    "uv_index": 3,
+    "visibility": 16,
+    "is_day": "yes"
+  }
+},{
+  "_id": {
+    "$oid": "64493e5e1b084cf13279787d"
+  },
+  "request": {
+    "type": "City",
+    "query": "Atlanta, United States of America",
+    "language": "en",
+    "unit": "m"
+  },
+  "location": {
+    "name": "Atlanta",
+    "country": "United States of America",
+    "region": "Georgia",
+    "lat": "33.749",
+    "lon": "-84.388",
+    "timezone_id": "America/New_York",
+    "localtime": "2023-04-26 08:43",
+    "localtime_epoch": 1682498580,
+    "utc_offset": "-4.0"
+  },
+  "current": {
+    "observation_time": "12:43 PM",
+    "temperature": 13,
+    "weather_code": 122,
+    "weather_icons": [
+      "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png"
+    ],
+    "weather_descriptions": [
+      "Overcast"
+    ],
+    "wind_speed": 13,
+    "wind_degree": 100,
+    "wind_dir": "E",
+    "pressure": 1019,
+    "precip": 0,
+    "humidity": 75,
+    "cloudcover": 100,
+    "feelslike": 12,
+    "uv_index": 3,
+    "visibility": 16,
+    "is_day": "yes"
+  }
+},{
+  "_id": {
+    "$oid": "64493e5e1b084cf13279787e"
+  },
+  "request": {
+    "type": "City",
+    "query": "Atlanta, United States of America",
+    "language": "en",
+    "unit": "m"
+  },
+  "location": {
+    "name": "Atlanta",
+    "country": "United States of America",
+    "region": "Georgia",
+    "lat": "33.749",
+    "lon": "-84.388",
+    "timezone_id": "America/New_York",
+    "localtime": "2023-04-26 08:58",
+    "localtime_epoch": 1682499480,
+    "utc_offset": "-4.0"
+  },
+  "current": {
+    "observation_time": "12:58 PM",
+    "temperature": 13,
+    "weather_code": 122,
+    "weather_icons": [
+      "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png"
+    ],
+    "weather_descriptions": [
+      "Overcast"
+    ],
+    "wind_speed": 13,
+    "wind_degree": 100,
+    "wind_dir": "E",
+    "pressure": 1019,
+    "precip": 0,
+    "humidity": 75,
+    "cloudcover": 100,
+    "feelslike": 12,
+    "uv_index": 3,
+    "visibility": 16,
+    "is_day": "yes"
+  }
+},{
+  "_id": {
+    "$oid": "64493e5e1b084cf13279787f"
+  },
+  "request": {
+    "type": "City",
+    "query": "Atlanta, United States of America",
+    "language": "en",
+    "unit": "m"
+  },
+  "location": {
+    "name": "Atlanta",
+    "country": "United States of America",
+    "region": "Georgia",
+    "lat": "33.749",
+    "lon": "-84.388",
+    "timezone_id": "America/New_York",
+    "localtime": "2023-04-26 09:09",
+    "localtime_epoch": 1682500140,
+    "utc_offset": "-4.0"
+  },
+  "current": {
+    "observation_time": "01:09 PM",
+    "temperature": 13,
+    "weather_code": 122,
+    "weather_icons": [
+      "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png"
+    ],
+    "weather_descriptions": [
+      "Overcast"
+    ],
+    "wind_speed": 13,
+    "wind_degree": 100,
+    "wind_dir": "E",
+    "pressure": 1019,
+    "precip": 0,
+    "humidity": 75,
+    "cloudcover": 100,
+    "feelslike": 12,
+    "uv_index": 3,
+    "visibility": 16,
+    "is_day": "yes"
+  }
+},{
+  "_id": {
+    "$oid": "64493e5e1b084cf132797880"
+  },
+  "request": {
+    "type": "City",
+    "query": "Atlanta, United States of America",
+    "language": "en",
+    "unit": "m"
+  },
+  "location": {
+    "name": "Atlanta",
+    "country": "United States of America",
+    "region": "Georgia",
+    "lat": "33.749",
+    "lon": "-84.388",
+    "timezone_id": "America/New_York",
+    "localtime": "2023-04-26 09:28",
+    "localtime_epoch": 1682501280,
+    "utc_offset": "-4.0"
+  },
+  "current": {
+    "observation_time": "01:28 PM",
+    "temperature": 14,
+    "weather_code": 122,
+    "weather_icons": [
+      "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png"
+    ],
+    "weather_descriptions": [
+      "Overcast"
+    ],
+    "wind_speed": 19,
+    "wind_degree": 80,
+    "wind_dir": "E",
+    "pressure": 1019,
+    "precip": 0,
+    "humidity": 72,
+    "cloudcover": 100,
+    "feelslike": 13,
+    "uv_index": 3,
+    "visibility": 16,
+    "is_day": "yes"
+  }
+},{
+  "_id": {
+    "$oid": "64493e5e1b084cf132797881"
+  },
+  "request": {
+    "type": "City",
+    "query": "Atlanta, United States of America",
+    "language": "en",
+    "unit": "m"
+  },
+  "location": {
+    "name": "Atlanta",
+    "country": "United States of America",
+    "region": "Georgia",
+    "lat": "33.749",
+    "lon": "-84.388",
+    "timezone_id": "America/New_York",
+    "localtime": "2023-04-26 09:43",
+    "localtime_epoch": 1682502180,
+    "utc_offset": "-4.0"
+  },
+  "current": {
+    "observation_time": "01:43 PM",
+    "temperature": 14,
+    "weather_code": 122,
+    "weather_icons": [
+      "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png"
+    ],
+    "weather_descriptions": [
+      "Overcast"
+    ],
+    "wind_speed": 19,
+    "wind_degree": 80,
+    "wind_dir": "E",
+    "pressure": 1019,
+    "precip": 0,
+    "humidity": 72,
+    "cloudcover": 100,
+    "feelslike": 13,
+    "uv_index": 3,
+    "visibility": 16,
+    "is_day": "yes"
+  }
+},{
+  "_id": {
+    "$oid": "64493e5e1b084cf132797882"
+  },
+  "request": {
+    "type": "City",
+    "query": "Atlanta, United States of America",
+    "language": "en",
+    "unit": "m"
+  },
+  "location": {
+    "name": "Atlanta",
+    "country": "United States of America",
+    "region": "Georgia",
+    "lat": "33.749",
+    "lon": "-84.388",
+    "timezone_id": "America/New_York",
+    "localtime": "2023-04-26 09:58",
+    "localtime_epoch": 1682503080,
+    "utc_offset": "-4.0"
+  },
+  "current": {
+    "observation_time": "01:58 PM",
+    "temperature": 14,
+    "weather_code": 122,
+    "weather_icons": [
+      "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png"
+    ],
+    "weather_descriptions": [
+      "Overcast"
+    ],
+    "wind_speed": 19,
+    "wind_degree": 80,
+    "wind_dir": "E",
+    "pressure": 1019,
+    "precip": 0,
+    "humidity": 72,
+    "cloudcover": 100,
+    "feelslike": 13,
+    "uv_index": 3,
+    "visibility": 16,
+    "is_day": "yes"
+  }
+},{
+  "_id": {
+    "$oid": "64493e5e1b084cf132797883"
+  },
+  "request": {
+    "type": "City",
+    "query": "Atlanta, United States of America",
+    "language": "en",
+    "unit": "m"
+  },
+  "location": {
+    "name": "Atlanta",
+    "country": "United States of America",
+    "region": "Georgia",
+    "lat": "33.749",
+    "lon": "-84.388",
+    "timezone_id": "America/New_York",
+    "localtime": "2023-04-26 10:09",
+    "localtime_epoch": 1682503740,
+    "utc_offset": "-4.0"
+  },
+  "current": {
+    "observation_time": "02:09 PM",
+    "temperature": 14,
+    "weather_code": 122,
+    "weather_icons": [
+      "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png"
+    ],
+    "weather_descriptions": [
+      "Overcast"
+    ],
+    "wind_speed": 19,
+    "wind_degree": 80,
+    "wind_dir": "E",
+    "pressure": 1019,
+    "precip": 0,
+    "humidity": 72,
+    "cloudcover": 100,
+    "feelslike": 13,
+    "uv_index": 3,
+    "visibility": 16,
+    "is_day": "yes"
+  }
+},{
+  "_id": {
+    "$oid": "64493e5e1b084cf132797884"
+  },
+  "request": {
+    "type": "City",
+    "query": "Atlanta, United States of America",
+    "language": "en",
+    "unit": "m"
+  },
+  "location": {
+    "name": "Atlanta",
+    "country": "United States of America",
+    "region": "Georgia",
+    "lat": "33.749",
+    "lon": "-84.388",
+    "timezone_id": "America/New_York",
+    "localtime": "2023-04-26 10:28",
+    "localtime_epoch": 1682504880,
+    "utc_offset": "-4.0"
+  },
+  "current": {
+    "observation_time": "02:28 PM",
+    "temperature": 14,
+    "weather_code": 122,
+    "weather_icons": [
+      "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png"
+    ],
+    "weather_descriptions": [
+      "Overcast"
+    ],
+    "wind_speed": 4,
+    "wind_degree": 10,
+    "wind_dir": "N",
+    "pressure": 1020,
+    "precip": 0,
+    "humidity": 72,
+    "cloudcover": 100,
+    "feelslike": 13,
+    "uv_index": 3,
+    "visibility": 16,
+    "is_day": "yes"
+  }
+},{
+  "_id": {
+    "$oid": "64493e5e1b084cf132797885"
+  },
+  "request": {
+    "type": "City",
+    "query": "Atlanta, United States of America",
+    "language": "en",
+    "unit": "m"
+  },
+  "location": {
+    "name": "Atlanta",
+    "country": "United States of America",
+    "region": "Georgia",
+    "lat": "33.749",
+    "lon": "-84.388",
+    "timezone_id": "America/New_York",
+    "localtime": "2023-04-26 10:43",
+    "localtime_epoch": 1682505780,
+    "utc_offset": "-4.0"
+  },
+  "current": {
+    "observation_time": "02:43 PM",
+    "temperature": 15,
+    "weather_code": 122,
+    "weather_icons": [
+      "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png"
+    ],
+    "weather_descriptions": [
+      "Overcast"
+    ],
+    "wind_speed": 17,
+    "wind_degree": 90,
+    "wind_dir": "E",
+    "pressure": 1019,
+    "precip": 0,
+    "humidity": 69,
+    "cloudcover": 100,
+    "feelslike": 14,
+    "uv_index": 3,
+    "visibility": 16,
+    "is_day": "yes"
+  }
+},{
+  "_id": {
+    "$oid": "64493e5e1b084cf132797886"
+  },
+  "request": {
+    "type": "City",
+    "query": "Atlanta, United States of America",
+    "language": "en",
+    "unit": "m"
+  },
+  "location": {
+    "name": "Atlanta",
+    "country": "United States of America",
+    "region": "Georgia",
+    "lat": "33.749",
+    "lon": "-84.388",
+    "timezone_id": "America/New_York",
+    "localtime": "2023-04-26 10:54",
+    "localtime_epoch": 1682506440,
+    "utc_offset": "-4.0"
+  },
+  "current": {
+    "observation_time": "02:54 PM",
+    "temperature": 15,
+    "weather_code": 122,
+    "weather_icons": [
+      "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png"
+    ],
+    "weather_descriptions": [
+      "Overcast"
+    ],
+    "wind_speed": 17,
+    "wind_degree": 90,
+    "wind_dir": "E",
+    "pressure": 1019,
+    "precip": 0,
+    "humidity": 69,
+    "cloudcover": 100,
+    "feelslike": 14,
+    "uv_index": 3,
+    "visibility": 16,
+    "is_day": "yes"
+  }
+}]
